@@ -1,2 +1,4 @@
-a = 5 /2
-print (a)
+x = 10
+y = 2
+z = x / y
+print (z)
