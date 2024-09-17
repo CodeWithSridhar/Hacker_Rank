@@ -1,4 +1,5 @@
-x = 10
-y = 2
-z = x / y
-print (z)
+a = 5
+b = 2
+c = a / b
+#divide
+print (f'div {c}')
